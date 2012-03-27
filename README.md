@@ -11,7 +11,7 @@ Built for TexLive 2011 on Ubuntu Linux.
 `make`
 
 ### Renaming
-If renaming the PDF after build isn't good eonugh, you should edit the Makefile.
+If renaming the PDF after build isn't good enough, you should edit the Makefile.
 
 ## File structure
 
